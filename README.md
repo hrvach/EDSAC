@@ -152,7 +152,7 @@ The order format is:
 
 # EDSAC specification
 
-* 650 instructions/sec
+* ~ 650 instructions/sec
 * 32 memory tanks, 16 35-bit words of memory per tank, 512 words in total
 * Mercury delay line memory
 * Paper tape input, 5-track electromechanical reader running at 6 2/3 characters per second
@@ -160,7 +160,6 @@ The order format is:
 * Roughly 3,400 valves
 * Power consumption: ~15 kW
 * Area footprint: 5 x 4 meters
-* Configuration: rows of open racks, 1st row consists of 4, 2nd of 3 and 3rd of 5 racks
 * In total there are 142 chassis in 12 racks
 * Three rows with four, three and five racks respectively
 * Clock speed: 500 kHz
