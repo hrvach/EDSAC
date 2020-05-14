@@ -10,7 +10,7 @@ EDSAC was also a home to one of the first games ever for a digital computer, *no
 
 Despite being unbeatable at tic-tac-toe, EDSAC's primary design objective was mathematics and many daunting engineering tasks and scientific problems were solved using this technological breakthrough.
 
-Check out the [installation guide](#-how-to-install) for instructions how to set it up.
+Check out the [installation guide](#-how-to-install) for instructions how to set it up, or see a [DEMO VIDEO](https://www.youtube.com/watch?v=zl7O8vgFv3M).
 
 
 # Implementation details
